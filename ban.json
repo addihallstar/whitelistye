@@ -1,1 +1,8 @@
-[]
+{
+  "bannedUserIds": [
+    {
+      "id": 4722832590,
+      "reason": "noob"
+    }
+  ]
+}
