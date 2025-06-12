@@ -1,10 +1,6 @@
 {
   "bannedUserIds": [
     {
-      "id": 4722832590,
-      "reason": "poop"
-    },
-    {
       "id": 64654,
       "reason": "poo"
     },
